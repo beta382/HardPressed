@@ -26,7 +26,7 @@ workspace and build it yourself, it probably is backwards compatible with `Java 
 
 
 ##Prerequisites
-(as pertains to running the `executable .jar` under "releases" out-of-the-box)
+(as pertains to running the `executable .jar` under "release" out-of-the-box)
 
 - Have `JRE 7` or greater installed on your machine
 
@@ -42,6 +42,6 @@ you get results).
 5. (optional) Use the sort buttons at the top to change the order of the results, in case you want to give your opponent
 some slack, or make your resourcefulness less apparent.
 6. Pwn your opponent with the masterful words you are presented with.
-7. Repeat next turn
+7. Repeat next turn.
 8. ???
-9. Profit
+9. Profit.
