@@ -25,10 +25,11 @@ workspace and build it yourself, it probably is backwards compatible with `Java 
 
 
 
-##Prerequisites
-(as pertains to running the `executable .jar` under "release" out-of-the-box)
+##Setup
 
-- Have `JRE 7` or greater installed on your machine
+- Have `JRE 7` or greater installed on your machine and download the [latest release](https://github.com/beta382/HardPressed/releases), **or**
+- Have `JDK 6` or greater installed on your machine (might even be further backwards compatible, IDK, I only tested building with as low a `Java 6`), add [the code](https://github.com/beta382/HardPressed/tree/master/HardPressed/src/com/beta382/hardpressed) to your 
+own project, and build it yourself
 
 ##Usage
 
